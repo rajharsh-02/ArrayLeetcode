@@ -1,1 +1,1 @@
-# ArrayLeetcode
+I'll be uploading the Array LeetCode question's solution.
